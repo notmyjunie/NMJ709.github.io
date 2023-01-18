@@ -63,3 +63,6 @@ img{
 .exc{
   filter: invert(0%);
 }
+td{
+  border: 1px solid #d5d5d5;
+}
