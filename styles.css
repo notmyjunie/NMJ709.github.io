@@ -60,3 +60,6 @@ li{
 img{
   filter: invert(83%);
 }
+.exc{
+  filter: invert(0%);
+}
