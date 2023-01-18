@@ -68,3 +68,6 @@ td, th{
   padding: 12px;
   font-size: small;
 }
+.ric:hover{
+  content: Rick Roll;
+}
