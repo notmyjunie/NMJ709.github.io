@@ -66,4 +66,5 @@ img{
 td, th{
   border: 1px solid #d5d5d5;
   padding: 12px;
+  font-size: small;
 }
