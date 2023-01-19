@@ -23,7 +23,8 @@ h2{
 }
 footer{
     margin-top: 100px;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 .tw{
     border: #d5d5d5 1px solid;
