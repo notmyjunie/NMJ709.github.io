@@ -36,6 +36,7 @@ footer{
     margin-bottom: 2%;
     overflow: hidden;
     transition: all 0.12s;
+    text-align: left;
 }
 .tw>p{
   color: #d5d5d5;
