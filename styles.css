@@ -1,3 +1,9 @@
+@font-face{
+  font-family: Inter;
+  src: url(content/Inter.ttf);
+}
+
+
 body{
     padding: 1em;
     background-color: #070707;
