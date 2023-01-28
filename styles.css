@@ -2,7 +2,10 @@
   font-family: Inter;
   src: url(content/Inter.ttf);
 }
-
+@font-face{
+  font-family: Poppins;
+  src: url(content/poppins.ttf);
+}
 
 body{
     padding: 1em;
@@ -14,12 +17,12 @@ h1{
   font-family: Inter, sans-serif;
 }
 h3{
-    font-family: monospace;
+    font-family: Poppins,monospace;
     font-size: 28px;
 
 }
 h2{
-    font-family: monospace;
+    font-family: Poppins,monospace;
     font-size: 32px;
     font-style: bold;
     color: #d5d5ff;
