@@ -1,28 +1,28 @@
 @font-face{
-  font-family: Inter;
-  src: url(content/Inter.ttf);
+  font-family: Lexend;
+  src: url(content/Lexend-Regular.ttf);
 }
 @font-face{
-  font-family: Poppins;
-  src: url(content/poppins.ttf);
+  font-family: LexendExa;
+  src: url(content/LexendExa-Regular.ttf);
 }
 
 body{
     padding: 1em;
     background-color: #070707;
     color: #d5d5d5;
-    font-family: Inter, sans-serif;
+    font-family: Lexend, sans-serif;
 }
 h1{
-  font-family: Inter, sans-serif;
+  font-family: Lexend, sans-serif;
 }
 h3{
-    font-family: Poppins;
+    font-family: LexendExa;
     font-size: 28px;
 
 }
 h2{
-    font-family: Poppins;
+    font-family: LexendExa;
     font-size: 32px;
     font-style: bold;
     color: #d5d5ff;
