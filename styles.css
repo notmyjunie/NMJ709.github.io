@@ -59,7 +59,7 @@ li{
 }
 .box{
     border: #d5d5d5 1px solid;
-    border-radius: 10px;
+    border-radius: 4px;
     width: 85%;
     padding: 16px;
     overflow: scroll;
@@ -74,6 +74,7 @@ li{
 }
 img{
   filter: invert(83%);
+  border-radius: 4px;
 }
 .exc{
   filter: invert(0%);
