@@ -8,18 +8,19 @@
 }
 
 body{
-    padding: 1em;
+    padding: 0.75em;
     background-color: #1d1d1d;
     color: #d5d5d5;
     font-family: Lexend, sans-serif;
 }
 h1{
   font-family: Lexend, sans-serif;
+  text-align: center;
+  font-size: 1.25em;
 }
 h3{
     font-family: LexendExa;
-    font-size: 28px;
-
+    font-size: 1em;
 }
 h2{
     font-family: LexendExa;
@@ -34,56 +35,86 @@ footer{
     margin-top: 100px;
     text-align: center;
 }
-.tw{
-    border: #d5d5d5 1px solid;
-    border-radius: 10px;
-    padding: 16px;
-    width: 200px;
-    height: 50px;
-    float: left;
-    margin-right: 1%;
-    margin-bottom: 2%;
-    overflow: hidden;
-    transition: all 0.12s;
-    text-align: left;
-}
-.tw>p{
-  color: #d5d5d5;
-}
 a{
-    color: #e87bff;
+	color: #fff;
+	text-decoration-line: none;
+	transition: .2s;
+}
+a:hover{
+	color: #d599d5;
+	text-decoration-line: solid;
+}
+.col{
+	color: #d599d5;
 }
 li{
-    padding-top: 12px;
+    margin-top: 12px;
     margin-left: -20px;
+    text-align: left;
 }
-.box{
+div{
+	overflow-wrap: anywhere;
+}
+#fi{
+	float: left;
+}
+.main{
     border: #d5d5d5 1px solid;
     border-radius: 4px;
-    width: 85%;
-    padding: 16px;
-    overflow: scroll;
-    margin-top: 12px;
-    text-align: left;
+    width: 340px;
+    padding: 12px;
+    margin-top: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.social-list{
+	display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+}
+.socmed{
+		border: #d5d5d5 1px solid;
+    border-radius: 32px;
+    width: 142px;
+    height: 8em;
+    padding: 2px;
+    padding-top: 30px;
+    margin: 6px;
+    font-size: 10px;
+    transition: .5s;
+}
+.socmed:hover{
+	border-radius: 4px;
 }
 .box:hover{
   box-shadow: 0px 0px 10px #d5d5d5;
 }
-.tw:hover{
-  height: 200px;
-}
 img{
-  filter: invert(83%);
   border-radius: 4px;
 }
-.exc{
-  filter: invert(0%);
+.logo{
+	margin-top: 4em;
 }
-td, th{
-  border: 1px solid #d5d5d5;
-  padding: 12px;
-  font-size: small;
+#mstdn{
+background: rgb(85,0,170);
+background: -webkit-linear-gradient(bottom right, rgba(85,0,170,1) 0%, rgba(170,0,255,1) 100%);
+background: -moz-linear-gradient(bottom right, rgba(85,0,170,1) 0%, rgba(170,0,255,1) 100%);
+background: -o-linear-gradient(bottom right, rgba(85,0,170,1) 0%, rgba(170,0,255,1) 100%);
+background: linear-gradient(to top left, rgba(85,0,170,1) 0%, rgba(170,0,255,1) 100%);
+color: #fff
 }
-.ric:hover{
-  content: Rick Roll;
+#mstdn:hover{
+	box-shadow: 0px 0px 1em #aa00ff;
+}
+#ig{
+	background: rgb(131,58,180);
+background: linear-gradient(135deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+color: #fff;
+}
+#ig:hover{
+	box-shadow: 0px 0px 1em #fd1d1d;
 }
