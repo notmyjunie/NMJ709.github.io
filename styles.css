@@ -49,6 +49,7 @@ a:hover{
 }
 li{
     margin-top: 12px;
+    text-align: left;
 }
 div{
 	overflow-wrap: anywhere;
