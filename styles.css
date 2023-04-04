@@ -61,7 +61,7 @@ div{
 		width: 340px;
 	}
 	li{
-		margin-left: 20px;
+		margin-left: -20px;
 	}
 }
 @media (min-width: 768px)
