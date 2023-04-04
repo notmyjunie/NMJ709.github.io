@@ -49,9 +49,6 @@ a:hover{
 }
 li{
     margin-top: 12px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
 }
 div{
 	overflow-wrap: anywhere;
