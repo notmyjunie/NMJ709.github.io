@@ -134,3 +134,9 @@ color: #fff;
 #ig:hover{
 	box-shadow: 0px 0px 1em #fd1d1d;
 }
+#sptfy{
+	linear-gradient(to bottom, #21ff6f, #008210)
+}
+#sptfy:hover{
+	box-shadow: 0px 0px 1em #21ff6f;
+}
