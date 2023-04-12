@@ -40,6 +40,9 @@ a{
 	text-decoration-line: none;
 	transition: .2s;
 }
+.click{
+	color: #d599d5;
+}
 a:hover{
 	color: #d599d5;
 	text-decoration-line: solid;
