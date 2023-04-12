@@ -159,9 +159,8 @@ color: #fff;
 	padding: 12px;
 }
 .abt{
-	display: flex;
 	text-align: left;
 }
-#apt{
-	padding: 24px;
+.slay:hover{
+	letter-spacing: 2px;
 }
