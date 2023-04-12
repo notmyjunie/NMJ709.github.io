@@ -141,3 +141,6 @@ color: #fff;
 #sptfy:hover{
 	box-shadow: 0px 0px 1em #21ff6f;
 }
+.nav{
+	display: flex;
+}
