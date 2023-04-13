@@ -60,10 +60,11 @@ div{
 @media (min-width: 320px) and (max-width: 767px) {
 	.main{
 		width: 340px;
+		text-align: center;
 	}
 	li{
 		margin-left: -20px;
-text-align: left;
+		text-align: left;
 	}
 	.nav{
 		width: 340px;
@@ -74,11 +75,8 @@ text-align: left;
 	.main{
 		width: 80%;
 	}
-	li{
-		text-align: center;
-	}
 	.nav{
-		width: 80%;
+		width: 20%;
 	}
 	#apt{
 		text-align: left;
@@ -88,23 +86,23 @@ text-align: left;
 .main{
     border: #d5d5d5 1px solid;
     border-radius: 4px;
-    padding: 12px;
+    padding: 48px;
     margin-top: 24px;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
 }
 .social-list{
 	display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  mask-size: contain;
-  mask-repeat: no-repeat;
-  mask-position: center;
+ 	flex-wrap: wrap;
+  	mask-size: contain;
+  	mask-repeat: no-repeat;
+ 	mask-position: center;
+	text-align: center;
+	justify-content: space-evenly;
 }
 .socmed{
 		border: #d5d5d5 1px solid;
-    border-radius: 32px;
+    border-radius: 16px;
     width: 142px;
     height: 6em;
     padding: 2px;
@@ -164,6 +162,9 @@ color: #fff;
 }
 .abt{
 	text-align: left;
+}
+.slay{
+	font-size: 1.25em;
 }
 .slay:hover{
 	letter-spacing: 2px;
