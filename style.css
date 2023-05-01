@@ -94,6 +94,13 @@ footer > p{
 }
 .tagholder > .tag{
 	margin-right: 1em;
+	margin-bottom: 1em;
+}
+.spoiler{
+	filter: blur(20px);
+}
+.spoiler:hover{
+	filter: blur(0px);
 }
 a{
 	color: #cdd6f4;
@@ -117,6 +124,9 @@ a:hover .imglink{
 }
 a:hover .socialicon{
 	opacity: 100%;
+}
+a:hover .ui{
+	box-shadow: 0px 0px 8px #cba6f7;
 }
 #socials{
     display: flex;
