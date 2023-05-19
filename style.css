@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
 
 header{
 		background-color: #11111b;
@@ -9,7 +10,7 @@ header{
 body{
     background-color: #181825;
     color: #cdd6f4;
-    font-family: 'Lexend Deca',sans-serif;
+    font-family: 'Fira Code', monospace;
     font-size: 1.25em;
 }
 img{
@@ -18,6 +19,9 @@ img{
 footer > p{
 	font-size: .75em;
 	opacity: 75%;
+}
+code{
+	font-family: 'Lexend Deca', sans-serif;
 }
 .ui{
     background-color: #1e1e2e;
