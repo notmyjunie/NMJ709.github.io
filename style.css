@@ -6,7 +6,8 @@ header {
 	display: flex;
 	justify-content: space-evenly;
 	padding: 2vh;
-	position: fixed;
+	width: 100%;
+	position: sticky;
 }
 body {
 	background-color: #181825;
