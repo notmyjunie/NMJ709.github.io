@@ -23,6 +23,12 @@ footer > p{
 code{
 	font-family: 'Lexend Deca', sans-serif;
 }
+iframe{
+	outline: none;
+}
+iframe[seamless]{
+	display: inline;
+}
 .ui{
     background-color: #1e1e2e;
     margin-left: auto;
