@@ -6,7 +6,7 @@ header {
 	display: flex;
 	justify-content: space-evenly;
 	padding: 2vh;
-	width: 100%;
+	width: 70vw;
 	position: sticky;
 }
 body {
