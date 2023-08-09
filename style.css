@@ -6,6 +6,7 @@ header {
 	display: flex;
 	justify-content: space-evenly;
 	padding: 2vh;
+	position: sticky;
 }
 body {
 	background-color: #181825;
