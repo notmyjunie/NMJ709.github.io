@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 
 header {
 	background-color: #11111b;
@@ -12,7 +12,7 @@ header {
 body {
 	background-color: #181825;
 	color: #cdd6f4;
-	font-family: 'Fira Code', monospace;
+	font-family: 'JetBrains Mono', monospace;
 	font-size: 1.25em;
 }
 img {
