@@ -14,7 +14,7 @@
 			"id": "https://notmyjunie.github.io/blog/firstpost/",
 			"url": "https://notmyjunie.github.io/blog/firstpost/",
 			"title": "Site Revamp",
-			"content_html": "<p>I have rewritten this site with the intent of making it compatible with md files for easier syntaxing. As of now, this site remains bare bones and not customised yet.</p>\n<p>This website was built with https://www.11ty.dev, a really simple static site generator.</p>\n",
+			"content_html": "<p>I have rewritten this site with the intent of making it compatible with md files for easier syntaxing. As of now, this site remains bare bones and not customised yet.</p>\n<p>This website was built with <a href=\"http://www.11ty.dev\" title=\"Eleventy\">Eleventy</a>, a really simple static site generator.</p>\n",
 			"date_published": "2024-03-25T00:00:00Z"
 		}
 		
