@@ -4,8 +4,8 @@ module.exports = {
 	language: "en",
 	description: "this is a test of some sorts",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "notmyjunie",
+		email: "",
+		url: "https://notmyjunie.github.io/about-me/"
 	}
 }
