@@ -15,6 +15,8 @@ You can refer to me with any pronouns.
 
 I was born on 2006-09-04 :]
 
+I am bisexual
+
 ## Other things about me:
 - I love cats
 - I'm vegetarian
