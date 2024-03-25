@@ -4,6 +4,8 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 3
 ---
+<p>Use the links on the header to navigate, click my username to go back to the main index</p>
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
