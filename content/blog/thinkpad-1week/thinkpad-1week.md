@@ -7,9 +7,9 @@ tags:
   - ThinkPad
   - Consumer Electronics
 ---
-I've spent a week with my Lenovo ThinkPad X1 Extreme Gen 1 and it has been a really neat laptop. For starters, the ThinkPad line of laptops from Lenovo (originally from IBM) are known to be good business laptops used in corporate/enterprise settings. They are most known for being absolutely rugged and tough to the core.
+## Overview
 
-{% image "./lenovo-thinkpad-x1-extreme-gen-1-thinkpro-1.jpg", "Official render of said laptop for visualisation", "(min-width: 30em) 50vw, 100vw" %}
+I've spent a week with my Lenovo ThinkPad X1 Extreme Gen 1 and it has been a really neat laptop. For starters, the ThinkPad line of laptops from Lenovo (originally from IBM) are known to be good business laptops used in corporate/enterprise settings. They are most known for being absolutely rugged and tough to the core.
 
 ## Cost and Reasoning
 
