@@ -19,6 +19,7 @@ I was born on 2006-09-04 :]
 - I love cats
 - I'm vegetarian
 - My favourite colour is purple and orange, but I am indifferent about every colour except for really deep blue and red.
+- I love watching the NASCAR Cup Series and I think Kyle Busch is pretty rad
 
 ## Social Links:
 1. [Mastodon](https://toot.community/@nmj)
