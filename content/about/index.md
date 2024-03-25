@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 # About Me
 
-<img src="https://avatars.githubusercontent.com/u/122979310?v=4" alt="Madeline Celeste" width="100px" height="100px">
+{% image "https://avatars.githubusercontent.com/u/122979310?v=4" , "Madeline Celeste", [100] %}
 ###### GitHub profile picture
 
 My online persona name is Juniper, but you can call me Junie or Juno for short. 
