@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://notmyjunie.github.io/eleventy-base-blog/blog/firstpost/</loc>
+		<loc>https://notmyjunie.github.io/blog/firstpost/</loc>
 		<lastmod>2024-03-25</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://notmyjunie.github.io/eleventy-base-blog/about/</loc>
+		<loc>https://notmyjunie.github.io/about/</loc>
 		<lastmod>2024-03-25</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://notmyjunie.github.io/eleventy-base-blog/blog/</loc>
+		<loc>https://notmyjunie.github.io/blog/</loc>
 		<lastmod>2024-03-25</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://notmyjunie.github.io/eleventy-base-blog/</loc>
+		<loc>https://notmyjunie.github.io/</loc>
 		<lastmod>2024-03-25</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://notmyjunie.github.io/eleventy-base-blog/tags/</loc>
+		<loc>https://notmyjunie.github.io/tags/</loc>
 		<lastmod>2024-03-25</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://notmyjunie.github.io/eleventy-base-blog/tags/test/</loc>
+		<loc>https://notmyjunie.github.io/tags/test/</loc>
 		<lastmod>2024-03-25</lastmod>
 	</url>
 </urlset>
