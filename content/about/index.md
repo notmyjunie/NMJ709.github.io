@@ -6,4 +6,5 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+My online persona name is Juniper, but you can call me Junie or Juno for short. 
+You can refer to me with any pronouns.
