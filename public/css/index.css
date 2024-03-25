@@ -41,6 +41,9 @@ html {
 body {
 	max-width: 40em;
 }
+img{
+	border-radius: 4px;
+}
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
 .visually-hidden {
