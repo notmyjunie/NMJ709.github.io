@@ -15,13 +15,14 @@ You can refer to me with any pronouns.
 
 I was born on 2006-09-04 :]
 
-I am bisexual
+I am bisexual.
 
 ## Other things about me:
 - I love cats
 - I'm vegetarian
 - My favourite colour is purple and orange, but I am indifferent about every colour except for really deep blue and red.
-- I love watching the NASCAR Cup Series and I think Kyle Busch is pretty rad
+- I love watching the NASCAR Cup Series and I think Kyle Busch is pretty rad.
+- Videogames are fun!! I really enjoy playing Celeste and Super Mario 64. I don't like FPS games however :[
 
 ## Social Links:
 1. [Mastodon](https://toot.community/@nmj)
