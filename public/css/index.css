@@ -1,10 +1,15 @@
 @font-face {
 	font-family: "Inter";
-	src: url("/css/Inter.ttf") format("truetype");
+	src: url("/css/Inter.ttf");
+}
+@font-face {
+	font-family: "Inter";
+	src: url("/css/Inter-Bold.ttf");
+	font-weight: bold;
 }
 @font-face {
 	font-family: "JetBrains Mono";
-	src: url("/css/JetBrainsMono.ttf") format("truetype");
+	src: url("/css/JetBrainsMono.ttf");
 }
   
 
