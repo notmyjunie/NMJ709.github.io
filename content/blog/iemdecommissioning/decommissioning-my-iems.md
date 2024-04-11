@@ -1,17 +1,17 @@
 ---
 title: Decommissioning my old IEMs
-description: My beloved pair of IEMs broke and I have since then replaced them with newer, better ones
+description: I bid farewell to my old, handy pair of IEms
 date: 2024-04-11
 tags:
-  - EOL
-  - Consumer Electronics
-  - In-Ear Machines
+  - In Ear Machines
+  - Audio
+  - Broken Devices
+  - Consumer Electronics
 ---
-
 # Story
 I have used my pair of IEMs for 2 years and it has had its ups and downs throughout its lifetime of being used. To start off, I bought my _CCA CRA_ in mid 2021 when my old headphones which are the _Razer Kraken X_ broke apart exactly after 1 year of usage because of its lackluster build quality from Razer on cheap products. When I bought my IEMs I realized how good the sound quality is when compared to the Razer headphones while also being much cheaper than its counterpart.
 
-{% image "ccacra.jpg" , "CCA CRA in question", [350] %}
+{% image "./ccacra.jpg" , "CCA CRA in question", [350] %}
 
 ## Before IEMs
 Precursor to when I bought my IEMs, I used the Razer headphones because I had _ZERO_ knowledge on buying good headsets and also because of it being cheap when compared to other gamer-y headsets from known brands. What I didn't know about Razer was their build quality on cheaper products tend to be horrible and I spent a good one year without knowing that. I still have the broken headphones hanging on my wall on display, makes a really good decoration on my wall.
@@ -44,8 +44,8 @@ This got more annoying and I had to use my old Sony earbuds for music on my phon
 ## New IEMs
 Ever since my CCA CRA 'broke' I bought new IEMs to replace it which are the _TangZu WanEr_ costing around the same as when I bought my old ones. I chose the jade green colour option and it looks really good in person and in picture. The packaging it came in is also super neat. I wanted the Moondrop Chu II originally since it has a more premium build quality but I settled for the WanEr instead because it has almost the same audio profile as the CCA CRA but a lot better.
 
-{% img "wanerbuds.jpg", "TangZu WanEr in jade green", [350] %}
-{% img "wanerpackaging.jpg", "TangZu WanEr packaging", [350] %}
+{% img "./wanerbuds.jpg", "TangZu WanEr in jade green", [350] %}
+{% img "./wanerpackaging.jpg", "TangZu WanEr packaging", [350] %}
 
 ## Closing off
 In hindsight, I could've gone with a different headset instead of the Razer headphones that broke easily if I had done more research, but without those breaking I wouldn't get introduced to a whole different category of headsets that far surpasses the sound quality of the Razers. 
