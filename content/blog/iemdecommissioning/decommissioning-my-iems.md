@@ -44,8 +44,8 @@ This got more annoying and I had to use my old Sony earbuds for music on my phon
 ## New IEMs
 Ever since my CCA CRA 'broke' I bought new IEMs to replace it which are the _TangZu WanEr_ costing around the same as when I bought my old ones. I chose the jade green colour option and it looks really good in person and in picture. The packaging it came in is also super neat. I wanted the Moondrop Chu II originally since it has a more premium build quality but I settled for the WanEr instead because it has almost the same audio profile as the CCA CRA but a lot better.
 
-{% img "./wanerbuds.jpg", "TangZu WanEr in jade green", [350] %}
-{% img "./wanerpackaging.jpg", "TangZu WanEr packaging", [350] %}
+{% image "./wanerbuds.jpg", "TangZu WanEr in jade green", [350] %}
+{% image "./wanerpackaging.jpg", "TangZu WanEr packaging", [350] %}
 
 ## Closing off
 In hindsight, I could've gone with a different headset instead of the Razer headphones that broke easily if I had done more research, but without those breaking I wouldn't get introduced to a whole different category of headsets that far surpasses the sound quality of the Razers. 
