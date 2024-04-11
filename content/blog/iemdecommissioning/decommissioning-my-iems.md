@@ -1,17 +1,11 @@
 ---
-
 title: Decommissioning my old IEMs
-
 description: My beloved pair of IEMs broke and I have since then replaced them with newer, better ones
-
 date: 2024-04-11
-
 tags:
-
   - EOL
   - Consumer Electronics
   - In-Ear Machines
-
 ---
 
 # Story
