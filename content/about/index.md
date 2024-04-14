@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: aboutme
   order: 2
 ---
 # About Me
@@ -9,11 +9,11 @@ eleventyNavigation:
 {% image "https://avatars.githubusercontent.com/u/122979310" , "Sewerslvt", [100] %}
 ##### GitHub profile picture
 
-My online persona name is Juniper, but you can call me Junie or Juno for short. 
+My online persona name is Juniper, but you can call me Junie or Juno for short. I'm not gonna reveal my real name on here because it's never been a good idea.
 
 You can refer to me with any pronouns.
 
-I was born on 2006-09-04 :]
+I was born on the 4th of September in 2006.
 
 I am bisexual.
 
