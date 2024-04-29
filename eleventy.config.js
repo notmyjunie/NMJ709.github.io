@@ -6,6 +6,14 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginBundle = require("@11ty/eleventy-plugin-bundle");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const embedEverything = require("eleventy-plugin-embed-everything");
+
+module.exports = function(eleventyConfig) {
+	eleventyConfig.addPlugin(embedEverything, {
+		use: ['youtube']
+	});
+
+};
 
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
