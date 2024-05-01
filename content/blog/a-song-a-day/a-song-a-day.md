@@ -27,3 +27,13 @@ Upbeat overall. Found this from Night Runners. Fits with the game's aesthetics. 
 Song link:
 
 https://www.youtube.com/watch?v=eZXKCiUMRlc
+
+## Day 3, Guns N' Roses - November Rain
+
+(2024-05-01)
+
+Entire song is slow-paced up until the beginning of the guitar part. I love the lyrics in this song!
+
+Song link:
+
+https://music.youtube.com/watch?v=y6lfK3bH4z8&si=zfDPYAeSn6ijUaM4
