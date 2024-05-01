@@ -36,4 +36,4 @@ Entire song is slow-paced up until the beginning of the guitar part. I love the 
 
 Song link:
 
-https://www.youtube.com/watch?v=y6lfK3bH4z8&si=zfDPYAeSn6ijUaM4
+https://www.youtube.com/watch?v=y6lfK3bH4z8
