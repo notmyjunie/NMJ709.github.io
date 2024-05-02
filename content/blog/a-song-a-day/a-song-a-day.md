@@ -8,7 +8,7 @@ tags:
 ---
 # Introduction
 Hi! I will be posting daily updates about songs that I have listened to here. These are all my personal preferences, so expect some recurring artists in here.
-## Day 1, Sewerslvt - her.
+## Day 1, Sewerslvt - her
 
 (2024-04-29)
 
@@ -37,3 +37,13 @@ Entire song is slow-paced up until the beginning of the guitar part. I love the 
 Song link:
 
 https://www.youtube.com/watch?v=y6lfK3bH4z8
+
+## Day 4, Ice Cube - It Was A Good Day
+
+(2024-05-02)
+
+I first listened to this on the GTA San Andreas car radio.
+
+Song link:
+
+https://www.youtube.com/watch?v=v_MZfpnCAYo
