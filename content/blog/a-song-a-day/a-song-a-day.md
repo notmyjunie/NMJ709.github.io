@@ -47,3 +47,11 @@ I first listened to this on the GTA San Andreas car radio.
 Song link:
 
 https://www.youtube.com/watch?v=v_MZfpnCAYo
+
+## Day 5, GENIFORTURERS - Cum Junkie
+
+(2024-05-04)
+
+Song link:
+
+https://www.youtube.com/watch?v=zQsvEh_HSEE
