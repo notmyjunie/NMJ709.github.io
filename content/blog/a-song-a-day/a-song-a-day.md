@@ -12,7 +12,7 @@ Hi! I will be posting daily updates about songs that I have listened to here. Th
 
 (2024-04-29)
 
-This is one of the most emotional songs by Sewerslvt. The lyrics were written by her late lover Angel. I love the build-up in the beginning before the drop but my most favorite part about this song is the climax. This song hits really hard in the feels with the context of the whole album and Sewerslvt's late girlfriend.
+This is one of the most emotional songs by Sewerslvt. The lyrics were written by their late lover Angel. I love the build-up in the beginning before the drop but my most favorite part about this song is the climax. This song hits really hard in the feels with the context of the whole album and Sewerslvt's late girlfriend.
 
 Video link:
 
@@ -55,3 +55,51 @@ https://www.youtube.com/watch?v=v_MZfpnCAYo
 Song link:
 
 https://www.youtube.com/watch?v=zQsvEh_HSEE
+
+## Day 6-10, a surplus of songs :O
+
+(2024-05-10)
+
+I am going to catch up with the missing days here and introduce a whole load of songs (6 in total). And also one by Cynthoni that's become my favorite <3>
+
+### mindvacy - Dead Year
+
+Song link:
+
+https://www.youtube.com/watch?v=dF0zdvMJ1Zs
+
+### Pisca - OYASUMI SAIDO
+
+Song link:
+
+https://www.youtube.com/watch?v=t33aIlC818U
+
+### MF-DOOM - One Beer
+
+The most recognisable DOOM song, good samples he took. RIP to such a good lyricist.
+
+Song link:
+
+https://www.youtube.com/watch?v=h69FSgua80A
+
+### Machine Girl - ...Because I'm Young Arrogant And Hate Everything You Stand For
+
+Song link:
+
+https://www.youtube.com/watch?v=Yds-GcabFAo
+
+### Goreshit - O'er The Flood
+
+Song link:
+
+https://www.youtube.com/watch?v=TKqBTF4hSvI
+
+### Cynthoni - Grinding of The Teeth
+
+#### WATCH MY SKIN ERUPT INTO CYNTHONI OF FLAMES
+
+I'm soooo fucking glad Sewerslvt came back for more music. This sudden comeback has given me fresh motivation to do stuff now. I want to say more here but I just can't seem to put it into words. After 3 years of absence, I've only ever thought that their final album release was the end. I'm so excited now and looking forward to all of their new releases.
+
+Song link:
+
+https://www.youtube.com/watch?v=ELa4CeijxHg
