@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=TKqBTF4hSvI
 
 ### Cynthoni - Grinding of The Teeth
 
-#### WATCH MY SKIN ERUPT INTO CYNTHONI OF FLAMES
+#### WATCH MY SKIN ERUPT IN A CYNTHONI OF FLAMES
 
 I'm soooo fucking glad Sewerslvt came back for more music. This sudden comeback has given me fresh motivation to do stuff now. I want to say more here but I just can't seem to put it into words. After 3 years of absence, I've only ever thought that their final album release was the end. I'm so excited now and looking forward to all of their new releases.
 
