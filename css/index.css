@@ -11,7 +11,7 @@
 	font-family: "JetBrains Mono";
 	src: url("/css/JetBrainsMono.ttf");
 }
-  
+
 
 /* Defaults */
 :root {
@@ -20,8 +20,9 @@
 }
 
 /* Theme colors */
+@media (prefers-color-scheme: dark) {
 :root {
-	--color-gray-20: #181825;
+	--color-gray-20: #cba6f7;
 	--color-gray-50: #cdd6f4;
 	--color-gray-90: #fff;
 
@@ -34,7 +35,32 @@
 
 	--syntax-tab-size: 2;
 }
+a[href].header-anchor:focus,
+:hover > a[href].header-anchor {
+	color: #aaa;
+}
+}
 
+@media (prefers-color-scheme: light) {
+:root {
+	--color-gray-20: #181825;
+	--color-gray-50: #826;
+	--color-gray-90: #425;
+
+	--background-color: #dab;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #858;
+	--text-color-link-active: #636;
+	--text-color-link-visited: #a48;
+
+	--syntax-tab-size: 2;
+}
+a[href].header-anchor:focus,
+:hover > a[href].header-anchor {
+	color: #636;
+}
+}
 
 /* Global stylesheet */
 * {
@@ -84,12 +110,13 @@ li {
 a[href] {
 	color: var(--text-color-link);
 }
-a[href]:visited {
+/* a[href]:visited {
 	color: var(--text-color-link-visited);
-}
+} */
 a[href]:hover,
 a[href]:active {
 	color: var(--text-color-link-active);
+	text-decoration-style: wavy;
 }
 
 main {
@@ -106,6 +133,10 @@ header:after {
 	content: "";
 	display: table;
 	clear: both;
+}
+
+footer {
+	border-top: 1px dashed var(--color-gray-20);
 }
 
 .links-nextprev {
@@ -178,6 +209,7 @@ header {
 }
 .nav a[href][aria-current="page"] {
 	text-decoration: underline;
+	text-decoration-style: wavy;
 }
 
 /* Posts list */
@@ -263,10 +295,7 @@ a[href].header-anchor:focus,
 a[href].header-anchor:hover {
 	text-decoration: underline;
 }
-a[href].header-anchor:focus,
-:hover > a[href].header-anchor {
-	color: #aaa;
-}
+
 
 h2 + .header-anchor {
 	font-size: 1.5em;

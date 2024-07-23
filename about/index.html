@@ -22,7 +22,7 @@
 	font-family: "JetBrains Mono";
 	src: url("/css/JetBrainsMono.ttf");
 }
-  
+
 
 /* Defaults */
 :root {
@@ -31,8 +31,9 @@
 }
 
 /* Theme colors */
+@media (prefers-color-scheme: dark) {
 :root {
-	--color-gray-20: #181825;
+	--color-gray-20: #cba6f7;
 	--color-gray-50: #cdd6f4;
 	--color-gray-90: #fff;
 
@@ -45,7 +46,32 @@
 
 	--syntax-tab-size: 2;
 }
+a[href].header-anchor:focus,
+:hover > a[href].header-anchor {
+	color: #aaa;
+}
+}
 
+@media (prefers-color-scheme: light) {
+:root {
+	--color-gray-20: #181825;
+	--color-gray-50: #826;
+	--color-gray-90: #425;
+
+	--background-color: #dab;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #858;
+	--text-color-link-active: #636;
+	--text-color-link-visited: #a48;
+
+	--syntax-tab-size: 2;
+}
+a[href].header-anchor:focus,
+:hover > a[href].header-anchor {
+	color: #636;
+}
+}
 
 /* Global stylesheet */
 * {
@@ -95,12 +121,13 @@ li {
 a[href] {
 	color: var(--text-color-link);
 }
-a[href]:visited {
+/* a[href]:visited {
 	color: var(--text-color-link-visited);
-}
+} */
 a[href]:hover,
 a[href]:active {
 	color: var(--text-color-link-active);
+	text-decoration-style: wavy;
 }
 
 main {
@@ -117,6 +144,10 @@ header:after {
 	content: "";
 	display: table;
 	clear: both;
+}
+
+footer {
+	border-top: 1px dashed var(--color-gray-20);
 }
 
 .links-nextprev {
@@ -189,6 +220,7 @@ header {
 }
 .nav a[href][aria-current="page"] {
 	text-decoration: underline;
+	text-decoration-style: wavy;
 }
 
 /* Posts list */
@@ -274,10 +306,7 @@ a[href].header-anchor:focus,
 a[href].header-anchor:hover {
 	text-decoration: underline;
 }
-a[href].header-anchor:focus,
-:hover > a[href].header-anchor {
-	color: #aaa;
-}
+
 
 h2 + .header-anchor {
 	font-size: 1.5em;
@@ -290,18 +319,19 @@ h2 + .header-anchor {
 			<!--a href="/" class="home-link"--><!--/a-->
 
 			<p class="home-link">notmyjunie</p>
+
 			<nav>
 				<h2 class="visually-hidden">Top level navigation menu</h2>
 				<ul class="nav">
 					<li class="nav-item"><a href="/">home</a></li>
-					<li class="nav-item"><a href="/about/" aria-current="page">aboutme</a></li>
+					<li class="nav-item"><a href="/about/" aria-current="page">whoami</a></li>
 					<li class="nav-item"><a href="/blog/">blog</a></li>
 				</ul>
 			</nav>
 		</header>
 
 		<main id="skip">
-			<h1 id="about-me" tabindex="-1">About Me <a class="header-anchor" href="#about-me">#</a></h1>
+			<h1 id="whoami" tabindex="-1"><code>whoami</code> <a class="header-anchor" href="#whoami">#</a></h1>
 <p><picture><source type="image/avif" srcset="/img/zr46a6yGaA-100.avif 100w"><source type="image/webp" srcset="/img/zr46a6yGaA-100.webp 100w"><img alt="Sewerslvt" loading="lazy" decoding="async" src="/img/zr46a6yGaA-100.png" width="100" height="100"></picture></p>
 <h5>GitHub profile picture</h5>
 <p>My online persona name is Juniper, but you can call me Junie or Juno for short. I'm not gonna reveal my real name on here because it's never been a good idea.</p>
@@ -326,8 +356,8 @@ h2 + .header-anchor {
 
 		</main>
 
-		<footer></footer>
+		<footer><p>This site is made with 💖 under the <a href="https://unlicense.org/">Unlicense</a> license.</p></footer>
 
-		<!-- This page `/about/` was built on 2024-05-10T08:07:40.565Z -->
+		<!-- This page `/about/` was built on 2024-07-23T14:34:17.982Z -->
 	</body>
 </html>
