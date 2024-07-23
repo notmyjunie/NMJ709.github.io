@@ -5,19 +5,10 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 3
 ---
-<div class="wa" style="
-	display: flex;
-	">
-	<img src="../img/lunch.png" width="84" height="188">
-	<div style="
-		display: inline;
-		margin-left: 12px">
-		<h1>Hi, I'm Junie</h1>
-		<h2>Your technophobe ThinkPad girl</h2>
-	</div>
-</div>
-
-<p>Use the links on the header to navigate my website.</p>
+<h1>Salutations, visitor!</h1>
+<p>Greetings! Welcome to my humble website. This is where I would showcase my stuff!</p>
+<p>I mainly use this site as a collection to store medium to long form essays or to express any opinions I have towards something in general.</p>
+<h6>Psssttt! Use the links on the header to navigate my website.</h6>
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}

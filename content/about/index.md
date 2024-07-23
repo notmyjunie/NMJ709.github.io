@@ -1,10 +1,10 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: aboutme
+  key: whoami
   order: 2
 ---
-# About Me
+# `whoami`
 
 {% image "https://avatars.githubusercontent.com/u/122979310" , "Sewerslvt", [100] %}
 ##### GitHub profile picture
