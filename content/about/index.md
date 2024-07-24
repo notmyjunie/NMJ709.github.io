@@ -9,8 +9,6 @@ eleventyNavigation:
 {% image "https://avatars.githubusercontent.com/u/122979310" , "Sewerslvt", [100] %}
 ##### GitHub profile picture
 
-`whoami`
-
 `[junie@juno-thinkpad ~]$ Junie`
 
 Heya! I run this site (not really, since its hosted on github). I am a learning developer! I prefer to use Open Source Software and I advocate for Free Software, the Right to Repair and digital privacy. I plan to pursue a degree in Software Engineering.
@@ -25,7 +23,6 @@ For that, I have my Android phone which is a Sony Xperia 10 V.
 - I love cats
 - I'm vegetarian
 - My favourite colour is purple and orange, but I am indifferenat about every colour except for really deep blue and red.
-- I love watching the NASCAR Cup Series and I think Kyle Busch is pretty rad.
 - Videogames are fun!! I really enjoy playing Celeste and Super Mario 64. I don't like FPS games however :[
 
 ### Contact:
