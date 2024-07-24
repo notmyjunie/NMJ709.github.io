@@ -47,16 +47,6 @@
 	</url>
 	
 	<url>
-		<loc>https://notmyjunie.github.io/tags/songs/</loc>
-		<lastmod>2024-07-24</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://notmyjunie.github.io/tags/daily-updates/</loc>
-		<lastmod>2024-07-24</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://notmyjunie.github.io/tags/review/</loc>
 		<lastmod>2024-07-24</lastmod>
 	</url>
@@ -83,6 +73,16 @@
 	
 	<url>
 		<loc>https://notmyjunie.github.io/tags/broken-devices/</loc>
+		<lastmod>2024-07-24</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://notmyjunie.github.io/tags/songs/</loc>
+		<lastmod>2024-07-24</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://notmyjunie.github.io/tags/daily-updates/</loc>
 		<lastmod>2024-07-24</lastmod>
 	</url>
 </urlset>
