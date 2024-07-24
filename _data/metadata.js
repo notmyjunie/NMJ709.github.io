@@ -1,8 +1,8 @@
 module.exports = {
-	title: "notmyjunie",
+	title: "Junie's Junction",
 	url: "https://notmyjunie.github.io/",
 	language: "en",
-	description: "this is a test of some sorts",
+	description: "This is the junction where Junie becames truenie <3",
 	author: {
 		name: "notmyjunie",
 		email: "",

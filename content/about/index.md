@@ -4,20 +4,35 @@ eleventyNavigation:
   key: whoami
   order: 2
 ---
-# `whoami`
+# `[junie@juno-thinkpad ~]$ whoami`
 
-{% image "https://avatars.githubusercontent.com/u/122979310" , "Sewerslvt", [100] %}
-##### GitHub profile picture
+<img src="https://avatars.githubusercontent.com/u/122979310" class="center">
 
-`[junie@juno-thinkpad ~]$ Junie`
+<h2 class="center"><code>Junie</code></h2>
 
-Heya! I run this site (not really, since its hosted on github). I am a learning developer! I prefer to use Open Source Software and I advocate for Free Software, the Right to Repair and digital privacy. I plan to pursue a degree in Software Engineering.
+Heya! I'm Junie, or Juno, depending on what you're familiar with. I run this site (not really, since its hosted on github). I am a learning developer! I prefer to use Open Source Software and I advocate for Free Software, the Right to Repair and digital privacy. I plan to pursue a degree in Software Engineering.
 
-I am a transgender catgirl and my pronouns are `she/her` and `they/them`. I have yet to come out to any of my close friends and family.
+I am a transgender catgirl and my pronouns are `she/her` and `they/them`. I swing both ways, which means I'm bisexual. But I am currently not looking for a partner. I have yet to come out to any of my close friends and family.
 
 ### Setup
 I have a ThinkPad X1 Extreme 1st Gen. Really reliable machine. I use NeoVim as my text editor and/or IDE. However, I don't use it as much due to ergonomic issues.
 For that, I have my Android phone which is a Sony Xperia 10 V.
+
+#### Details
+
+ThinkPad X1 Extreme 1st Gen
+
+- 1TB NVMe Drive
+- 32GB RAM
+- Intel Core i7-8750H Hexa-core CPU
+- Nvidia GeForce GTX1050Ti Max-Q dGPU
+- 1080p IPS display
+
+Sony Xperia 10 V
+
+- 128GB UFS Storage
+- 8GB RAM
+- Stock Android 14
 
 ### Other things about me:
 - I love cats
