@@ -1,10 +1,10 @@
 @font-face {
-	font-family: "Inter";
-	src: url("/css/Inter.ttf");
+	font-family: "Figtree";
+	src: url("/css/Figtree.ttf");
 }
 @font-face {
-	font-family: "Inter";
-	src: url("/css/Inter-Bold.ttf");
+	font-family: "Figtree";
+	src: url("/css/Figtree.ttf");
 	font-weight: bold;
 }
 @font-face {
@@ -15,7 +15,7 @@
 
 /* Defaults */
 :root {
-	--font-family: "Inter", sans-serif;
+	--font-family: "Figtree", sans-serif;
 	--font-family-monospace: "JetBrains Mono", monospace;
 }
 
