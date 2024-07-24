@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
-	<title>notmyjunie</title>
-	<subtitle>this is a test of some sorts</subtitle>
+	<title>Junie&#39;s Junction</title>
+	<subtitle>This is the junction where Junie becames truenie &lt;3</subtitle>
 	<link href="https://notmyjunie.github.io/feed/feed.xml" rel="self"/>
 	<link href="https://notmyjunie.github.io/"/>
-	<updated>2024-04-29T00:00:00Z</updated>
+	<updated>2024-07-24T00:00:00Z</updated>
 	<id>https://notmyjunie.github.io/</id>
 	<author>
 		<name>notmyjunie</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Another Site Overhaul</title>
+		<link href="https://notmyjunie.github.io/blog/siteupdates/"/>
+		<updated>2024-07-24T00:00:00Z</updated>
+		<id>https://notmyjunie.github.io/blog/siteupdates/</id>
+		<content type="html">&lt;h1 id=&quot;what-s-new&quot; tabindex=&quot;-1&quot;&gt;What&#39;s new? &lt;a class=&quot;header-anchor&quot; href=&quot;https://notmyjunie.github.io/blog/siteupdates/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;First off, you may have noticed the updated font. I switched from using boring old Inter to Figtree. Hopefully this change makes the text more legible. I have added a light mode colour scheme for those who enjoy light mode for the site, it&#39;s really pink. I&#39;ve also done some tweaking to some page links and added a footer now. Last but not least, the about page is much more filled now! That&#39;s all I&#39;ve done to make this site much more alive.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>A Song A Day for 30 Days (or more)</title>

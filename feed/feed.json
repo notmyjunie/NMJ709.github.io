@@ -1,15 +1,23 @@
 {
 	"version": "https://jsonfeed.org/version/1.1",
-	"title": "notmyjunie",
+	"title": "Junie&#39;s Junction",
 	"language": "en",
 	"home_page_url": "https://notmyjunie.github.io/",
 	"feed_url": "https://notmyjunie.github.io/feed/feed.json",
-	"description": "this is a test of some sorts",
+	"description": "This is the junction where Junie becames truenie &lt;3",
 	"author": {
 		"name": "notmyjunie",
 		"url": "https://notmyjunie.github.io/about-me/"
 	},
 	"items": [
+		{
+			"id": "https://notmyjunie.github.io/blog/siteupdates/",
+			"url": "https://notmyjunie.github.io/blog/siteupdates/",
+			"title": "Another Site Overhaul",
+			"content_html": "<h1 id=\"what-s-new\" tabindex=\"-1\">What's new? <a class=\"header-anchor\" href=\"https://notmyjunie.github.io/blog/siteupdates/\">#</a></h1>\n<p>First off, you may have noticed the updated font. I switched from using boring old Inter to Figtree. Hopefully this change makes the text more legible. I have added a light mode colour scheme for those who enjoy light mode for the site, it's really pink. I've also done some tweaking to some page links and added a footer now. Last but not least, the about page is much more filled now! That's all I've done to make this site much more alive.</p>\n",
+			"date_published": "2024-07-24T00:00:00Z"
+		}
+		,
 		{
 			"id": "https://notmyjunie.github.io/blog/a-song-a-day/",
 			"url": "https://notmyjunie.github.io/blog/a-song-a-day/",

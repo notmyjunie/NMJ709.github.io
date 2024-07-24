@@ -22,6 +22,11 @@
 	</url>
 	
 	<url>
+		<loc>https://notmyjunie.github.io/blog/siteupdates/</loc>
+		<lastmod>2024-07-24</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://notmyjunie.github.io/about/</loc>
 		<lastmod>2024-07-24</lastmod>
 	</url>
@@ -42,22 +47,22 @@
 	</url>
 	
 	<url>
-		<loc>https://notmyjunie.github.io/tags/in-ear-machines/</loc>
+		<loc>https://notmyjunie.github.io/tags/test/</loc>
 		<lastmod>2024-07-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://notmyjunie.github.io/tags/audio/</loc>
+		<loc>https://notmyjunie.github.io/tags/site-updates/</loc>
 		<lastmod>2024-07-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://notmyjunie.github.io/tags/broken-devices/</loc>
+		<loc>https://notmyjunie.github.io/tags/updates/</loc>
 		<lastmod>2024-07-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://notmyjunie.github.io/tags/consumer-electronics/</loc>
+		<loc>https://notmyjunie.github.io/tags/meta/</loc>
 		<lastmod>2024-07-24</lastmod>
 	</url>
 	
@@ -82,7 +87,22 @@
 	</url>
 	
 	<url>
-		<loc>https://notmyjunie.github.io/tags/test/</loc>
+		<loc>https://notmyjunie.github.io/tags/consumer-electronics/</loc>
+		<lastmod>2024-07-24</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://notmyjunie.github.io/tags/in-ear-machines/</loc>
+		<lastmod>2024-07-24</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://notmyjunie.github.io/tags/audio/</loc>
+		<lastmod>2024-07-24</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://notmyjunie.github.io/tags/broken-devices/</loc>
 		<lastmod>2024-07-24</lastmod>
 	</url>
 </urlset>
