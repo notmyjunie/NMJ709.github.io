@@ -10,6 +10,7 @@ eleventyNavigation:
 ##### GitHub profile picture
 
 `whoami`
+
 `[junie@juno-thinkpad ~]$ Junie`
 
 Heya! I run this site (not really, since its hosted on github). I am a learning developer! I prefer to use Open Source Software and I advocate for Free Software, the Right to Repair and digital privacy. I plan to pursue a degree in Software Engineering.
