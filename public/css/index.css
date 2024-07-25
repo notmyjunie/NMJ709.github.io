@@ -317,3 +317,16 @@ h2 + .header-anchor {
 	display: flex;
 	margin-left: auto;
 }
+
+.what{
+	display: block;
+	width: 88px;
+	margin-left: auto;
+	margin-right: auto;
+	img-rendering: pixelated;
+}
+
+.what:hover{
+	transform: scale(2);
+	transition: 0.2s;
+};

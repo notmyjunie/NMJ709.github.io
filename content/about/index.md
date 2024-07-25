@@ -54,3 +54,5 @@ Peripherals
 - junoneko#5315 on [Revolt](https://revolt.chat)
 
 If you see my name on any sites that are not listed then that is either not me or I am not comfortable sharing those platforms with you for the sake of my privacy.
+
+<a href="https://files.catbox.moe/kathda.jpg"><img src="https://files.catbox.moe/kathda.jpg" class="what"></a>
