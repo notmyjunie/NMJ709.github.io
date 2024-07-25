@@ -4,7 +4,10 @@ eleventyNavigation:
   key: blog
   order: 3
 ---
+<header>
 <h1>Blog Posts</h1>
+<div class="items"><a href="/feed/feed.xml">RSS Feed</a></div>
+</header>
 
 {% set postslist = collections.posts %}
 {% include "postslist.njk" %}

@@ -312,3 +312,8 @@ h2 + .header-anchor {
 	width: 240px;
 	text-align: center;
 }
+
+.items{
+	display: flex;
+	margin-left: auto;
+}
