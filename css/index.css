@@ -39,6 +39,9 @@ a[href].header-anchor:focus,
 :hover > a[href].header-anchor {
 	color: #aaa;
 }
+blockquote{
+	background-color: #33225b;
+}
 }
 
 @media (prefers-color-scheme: light) {
@@ -59,6 +62,9 @@ a[href].header-anchor:focus,
 a[href].header-anchor:focus,
 :hover > a[href].header-anchor {
 	color: #636;
+}
+blockquote{
+	background-color: #eeccee;
 }
 }
 
