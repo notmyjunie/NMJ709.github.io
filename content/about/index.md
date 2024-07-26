@@ -55,4 +55,8 @@ Peripherals
 
 If you see my name on any sites that are not listed then that is either not me or I am not comfortable sharing those platforms with you for the sake of my privacy.
 
+<h3 class="center">My card!</h3>
+
 <a href="https://files.catbox.moe/kathda.jpg"><img src="https://files.catbox.moe/kathda.jpg" class="what"></a>
+
+> "Let no man or god tell you how to live."
