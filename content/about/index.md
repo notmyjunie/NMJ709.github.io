@@ -4,7 +4,7 @@ eleventyNavigation:
   key: whoami
   order: 2
 ---
-# `[junie@juno-thinkpad ~]$ whoami`
+# `[junie@twinkpad ~]$ whoami`
 
 <img src="https://avatars.githubusercontent.com/u/122979310" class="center">
 
