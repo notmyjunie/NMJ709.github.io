@@ -29,6 +29,7 @@ ThinkPad X1 Extreme 1st Gen
 - Intel Core i7-8750H Hexa-core CPU
 - Nvidia GeForce GTX1050Ti Max-Q dGPU
 - 1080p IPS display
+- I use Arch btw
 
 Sony Xperia 10 V
 
