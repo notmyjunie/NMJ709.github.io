@@ -10,6 +10,8 @@ numberOfLatestPostsToShow: 3
 <p>I mainly use this site as a collection to store medium to long form essays or to express any opinions I have towards something in general.</p>
 <h6>Psssttt! Use the links on the header to navigate my website.</h6>
 
+<h3>Free Palestine!</h3>
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
