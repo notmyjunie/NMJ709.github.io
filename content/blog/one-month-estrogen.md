@@ -29,4 +29,4 @@ Gender Dysphoria is such a horrible thing to be facing when I didn't even know w
 
 I don't know how to end this (?)rant(?)vent but I reach out to all my trans sisters, that you can make through this!!! Kick gender dysphoria in the ass!!! Don't listen to the haters!!! You can do this. Do this for your own sake.
 
-This is Junie, a girl, signing off. Thank you.
+This is Junie, the girlboss, and owner of the site, signing off. Thank you.
